@@ -8,3 +8,4 @@ Motivated by recent advancements in direct scene material prediction from single
 
 Below is a visual summary of our proposed neural reconstruction method, with the help of material priors.
 
+![Intro to Method - Visual Summary](https://github.com/jngsa/Neural-3D-Reconstruction-with-Material-Priors/blob/9e9550b172930a34b390d5d2b11c8b4a6c55af78/img/intro-method.png)
